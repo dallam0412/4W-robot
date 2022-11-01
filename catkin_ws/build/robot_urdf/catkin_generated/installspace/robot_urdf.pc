@@ -1,8 +1,0 @@
-prefix=/home/dhanush/Documents/HW/ENPM 662/project1/ENPM662/catkin_ws/install
-
-Name: robot_urdf
-Description: Description of robot_urdf
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
